@@ -1,0 +1,9 @@
+﻿sim/
+cov/
+*.wlf
+*.ucdb
+*.log
+*.tmp
+*.bak
+.vscode/
+.idea/
